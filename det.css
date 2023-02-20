@@ -1,0 +1,1004 @@
+*{
+    /* margin: 0; */
+    /* border: 0; */
+    box-sizing: border-box;
+}
+.box{
+    width: 90%;
+    height: 500px;
+    /* background-color:grey; */
+    display: flex;
+    /* margin-bottom: 60px; */
+    position: relative;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    margin: auto;
+}
+.one{
+    /* background-color: grey; */
+    width: 60%;
+    background-color:rgb(228, 224, 224) ;
+}
+.two{
+    background-color: grey;
+    width:40%;
+    position: relative;
+    /* background-image: url(cody.png); */
+    
+}
+.cod{
+    width: fit-content;
+    height: 100%;
+    position: absolute;
+    right: -75px;
+    
+}
+nav{
+   display: flex;
+   position: absolute;  
+   left: 35px;
+   /* background-color: blue; */
+   /* justify-content: space-around; */
+   padding: 0px;
+   z-index: 5;
+   /* margin-top: 30px; */
+
+}
+li{
+    display: inline;
+    position: relative;
+    padding: 0px;
+    padding-left: 0px;
+   margin-left: 90px;
+   top: -40px;
+   left: 130px;
+   margin-left: 50px;
+   transform: translateY(80%);
+
+}
+
+.tak{
+    width: 600px;
+    height: 400px;
+    /* background-color: aquamarine; */
+    position: relative;
+}
+.tak1{
+    position: absolute;
+    top: 100px;
+    bottom: 0px;
+    left: 80px;
+    right: 0px;
+    margin: auto;
+}
+h1{
+    position: absolute;
+    top: 130px;
+    bottom: 0px;
+    left: 80px;
+    right: 0px;
+    margin: auto;
+}
+.tak2{
+    position: absolute;
+    top: 260px;
+    bottom: 0px;
+    left: 80px;
+    right: 0px;
+    margin: auto;
+}
+.but{
+    position: relative;
+    top: 330px;
+    bottom: 0px;
+    left: 80px;
+    right: 0px;
+    width: 120px;
+    height: 30px;
+    background-color:grey;
+    border: none;
+    border-radius: 5px;
+}
+.small{
+        /* width:20px ; */
+        /* height: 30px; */
+        /* background-color: rgb(42, 42, 87); */
+        width: 90%;
+        height: 400px;
+        position: relative;
+        top: 0px;
+        right: 0px;
+        left: 0px;
+        margin: auto;
+}
+center, b, p{
+    /* margin-top: 40px; */
+    position: relative;
+    top: 20px;
+    font-size: larger;
+}
+.kar{
+    width:980px ;
+    height:200px ;
+    display: flex;
+    /* background-color: grey; */
+    margin-top: 70px;
+    margin-left: 70px;
+    position: absolute;
+    /* width: 70%;
+    height: 320px;
+    display: flex;
+    position: absolute;
+    bottom: 240px;
+    left: 23%;
+    background-color: aquamarine; */
+}
+.yup{
+    width: 300px;
+    height: 180px;
+    /* background-color: rgb(112, 223, 231); */
+    margin: 4px;
+    position: relative;
+    margin-bottom: 50px;
+}
+.cam{
+     height: 26px;
+}
+.pho{
+    position: relative;
+    top: -25px;
+    font-size:larger ; 
+}
+.lo{
+    position: relative;
+    top: -10px;
+}
+.vid{
+    height: 27px;
+}
+.vid1{
+    position: relative;
+    top: -25px;
+    font-size: larger;
+}
+.lol{
+    position: relative;
+    top: -10px;
+}
+.ret{
+    height: 27px;
+}
+.jin{
+    position: relative;
+    top: -25px;
+    font-size: larger;
+}
+.rat{
+    position: relative;
+    top: -10px;
+}
+.dro{
+    height: 27px;
+}
+.at{
+    position: relative;
+    top: -25px;
+    font-size: larger;
+}
+.lis{
+    position: relative;
+    top: -10px;
+}
+.sun{
+     width: 500px;
+     height: 400px;
+     background-color: darkslategray;
+     position: relative;
+     left: 140px;
+}
+.heart{
+    height: 30px;
+    margin-left: 40px;
+    margin-top: 30px;
+    /* color: white; */
+    /* background-color: white; */
+}
+.fun{
+    position: relative;
+    left: 180px;
+    top: 30px;
+    color: white;
+}
+.gad{
+    position: relative;
+    left: 15px;
+    top: -10px;
+    color: white;
+}
+.kopa{
+    position: absolute;
+    top: 50px;
+    left: 80px;
+    color: white;
+}
+.bnxn{
+    position: absolute;
+    left: 80px;
+    top: 130px;
+    color: white;
+}
+.kop{
+     position: absolute;
+     top: 280px;
+     left: 80px;
+     color: white;
+}
+.bnxa{
+    position: absolute;
+    top: 200px;
+    left: 80px;
+    color: white;
+}
+.heart1{
+    height: 30px;
+    position: relative;
+    top: 80px;
+    left: -32px;
+    
+}
+.heart2{
+    height: 30px;
+   position: relative;
+   top: 150px;
+   left: -65px;
+}
+.heart3{
+    height: 30px;
+    position: relative;
+   top: 230px;
+   left: -98px;
+}
+.pur{
+     width: 400px;
+     height: 435px;
+     /* background-color: aquamarine; */
+     position: relative;
+     left: 600px;
+     top: -140px;
+}
+.wed{
+    height: 435px;
+    width:370px ;
+}
+.ent{
+    width: 250px;
+    /* height: 290px; */
+    border-top-right-radius:  200px;
+    border-top-left-radius: 200px;
+    position: relative;
+    bottom: 370px;
+    right: 150px;
+}
+.call{
+    position: absolute;
+    left: -150px;
+    bottom: -50px;
+    background-color:  darkslategray;
+    color: white;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+.email{
+    position: absolute;
+    left: -0px;
+    bottom: -50px;
+    background-color:  darkslategray;
+    color: white;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+}
+.numb{
+    width: 970px;
+    height: 200px;
+    background-color: beige;
+}
+.number{
+    position: relative;
+    font-size: 50px ;
+    font-weight: bolder  ;
+    top: 48px;
+    left: 80px;
+}
+.plus{
+    width: 30px;
+    position: relative;
+    top: 50px;
+    left: 70px;
+    /* margin-top: 50px; */
+}
+.cli{
+    margin-left: 90px;
+}
+.number1{
+    position: relative;
+    font-size: 50px ;
+    font-weight: bolder;
+    left: 260px;
+    top: -69px;
+    
+}
+.plus1{
+    width: 30px;
+    position: relative;
+    top: -65px;
+    left: 251px;
+}
+.tos{
+    position: relative;
+    bottom: 48px;
+    left: 110px;
+    font-size: larger;
+}
+.number2{
+    position: relative;
+    font-size: 50px;
+    font-weight: bolder;
+    top: -69px;
+    left: 220px;
+}
+.plus2{
+    width: 30px;
+    position: relative;
+    top: -65px;
+    left: 210px;
+
+}
+.eo{
+    position: relative;
+    bottom: 48px;
+    left: 110px;
+    font-size: larger; 
+}
+.number3{
+    position: relative;
+    font-size: 50px;
+    font-weight: bolder;
+    top: -69px;
+    left: 220px;
+}
+.plus3{
+    width: 30px;
+    position: relative;
+    top: -65px;
+    left: 210px;
+}
+.rage{
+    position: relative;
+    bottom: 48px;
+    left: 110px;
+    font-size: larger; 
+}
+.ink{
+     width: 350px;
+     height: 400px;
+     /* background-color: cornflowerblue; */
+     margin-top: 40px;
+}
+.jacob{
+    width:350px ;
+}
+.din{
+     width: 300px;
+     height: 180px;
+     /* background-color: bisque; */
+     position: relative;
+     top: -420px;
+     left: 400px;
+}
+.din1{
+    width: 300px;
+    height: 180px;
+    /* background-color: bisque; */
+    position: relative;
+    top: -600px;
+    left: 800px;
+}
+.milt{
+    width: 300px;
+    height: 180px;
+}
+.din2{
+    width: 300px;
+    height: 180px;
+    /* background-color: bisque; */
+    position: relative;
+    top: -610px;
+    left: 400px;
+}
+.din3{
+    width: 300px;
+    height: 180px;
+    /* background-color: bisque; */
+    position: relative;
+    top: -790px;
+    left: 800px;
+}
+.del{
+    width: 300px;
+    height: 180px;
+}
+.din4{
+    width: 300px;
+    height: 180px;
+    /* background-color: bisque; */
+    position: relative;
+    top: -780px;
+    left: 400px;
+}
+.din5{
+    width: 300px;
+    height: 150px;
+    background-color: bisque;
+    position: relative;
+    top: -980px;
+    left: 800px;
+}
+.ola{
+    width:300px ;
+    height: 150px;
+}
+.yagi{
+    width: 1100px;
+    height: 50px;
+    /* background-color: burlywood; */
+    position: relative;
+    bottom: 920px;
+}
+.tent{
+    position: absolute;
+    left: 900px;
+    top: -18px;
+}
+hr{
+    /* bottom: -80px; */
+}
+.swe{
+    width: 1100px;
+    height: 400px;
+    /* background-color: rgb(240, 182, 160); */
+    position: relative;
+    bottom: 900px;
+}
+.vot{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    position: absolute;
+}
+.by{
+    width: 150px;
+    height: 150px;
+}
+.omo{
+    position:relative;
+    top: -135px;
+    left: 160px;
+}
+.vot1{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 320px;
+}
+.bla{
+    width: 150px;
+}
+.omo1{
+    position:relative;
+    top: -160px;
+    left: 160px;
+}
+.vot2{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 700px;
+}
+.blu{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 0px;
+}
+.bola{
+    width: 150px;
+    height: 150px;
+}
+.omo2{
+    position:relative;
+    top: -140px;
+    left: 160px;
+}
+.doja{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 220px;
+}
+.mes{
+    width: 150px;
+    height: 150px;
+}
+.doja1{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 320px;
+    top: 220px;
+}
+.mes1{
+    width: 150px;
+    height: 150px;
+}
+.doja2{
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 700px;
+    top: 220px;
+}
+.mes2{
+    width: 150px;
+    height: 150px;
+}
+.fire{
+    width: 450px;
+    height: 300px;
+    background-color: rgb(214, 212, 212);
+    position: relative;
+    bottom: 850px;
+}
+.go{
+    position: relative;
+    top: 50px;
+    left: 90px;
+}
+.ka{
+    position: relative;
+    top: 20px;
+    left: 1px;
+}
+.fb{
+    width: 50px;
+}
+.ig{
+    width: 25px;
+    position: absolute;
+    bottom: 15px;
+}
+.li{
+    width: 22px;
+    position: absolute;
+    bottom: 16px;
+    left: 90px;
+}
+.yt{
+    width: 29px;
+    position: absolute;
+    bottom: 12px;
+    left: 123px;
+}
+.iva{
+    width: 639px;
+    height: 300px;
+    background-color: rgb(83, 77, 77);
+    position: relative;
+    display: flex;
+    justify-content: space-evenly ;
+    bottom: 203px;
+    left: 450px;
+}
+li:hover{
+    /* background-color: antiquewhite ; */
+    transform: translateY(90%);
+            transition-duration: 1s;
+            cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+@media screen and (max-width:600px) {
+    body{
+       overflow-x: hidden;
+    }
+    .box{
+        background-image: url(COME-UP.jpg);
+        position: relative;
+        background-size: cover;
+    }
+    nav{
+        display: block;
+        justify-content: center;
+        align-items: center;
+    }
+    li {
+        display: block;
+        text-align: center;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+   *{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+   }
+.one{
+    display: none;
+}
+.two{
+    display: none;
+}
+nav{   
+    position: absolute;  
+    left: 35px;
+    padding: 0px;
+ }
+ .logo{
+    position: relative;
+    left: 150px;
+ }
+ li{
+    padding: 10px;
+    margin-left: 30%;
+   top: -20px;
+   left: -90px;
+   font-size: 25px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.tak1{
+    position: absolute;
+    top: 100px;
+    bottom: 0px;
+    left: 80px;
+    right: 0px;
+    margin: auto;
+}
+.one{
+    /* background-color: grey; */
+    /* width: 60%; */
+    /* background-color:rgb(228, 224, 224) ; */
+}
+.kar{
+    width:100px ;
+    height:200px ;
+    display: inline;
+    margin-top: 50px;
+    margin-left: 70px;
+    position: absolute;
+}
+.yup{
+    width: 200px;
+    height: 180px;
+    margin: 4px;
+    position: relative;
+    margin-bottom: 50px;
+}
+center, b, p{
+    position: relative;
+    top: 20px;
+    font-size: larger;
+    align-items: center;
+}
+.sun{
+    width: 300px;
+    position: relative;
+    bottom: -550px;
+    display: block;
+    left: 100px;
+}
+.fun{
+    position: relative;
+    left: 90px;
+    top: 30px;
+    color: white;
+}
+.kopa{
+    position: absolute;
+    top: 50px;
+    left: 80px;
+    color: white;
+    font-size: 15px;
+}
+.bnxn{
+    position: absolute;
+    left: 80px;
+    top: 130px;
+    color: white;
+    font-size: 15px;
+}
+.bnxa{
+    position: absolute;
+    top: 200px;
+    left: 80px;
+    color: white;
+    font-size: 15px;
+}
+.kop{
+    position: absolute;
+    top: 280px;
+    left: 80px;
+    color: white;
+    font-size: 15px;
+}
+.wed{
+    height: 300px;
+    width:300px ;
+    position: relative;
+    top: 500px;
+    right: 600px;
+}
+.ent{
+    width: 150px;
+    border-top-right-radius:  200px;
+    border-top-left-radius: 200px;
+    position: relative;
+    top: 90px;
+    right: 600px;
+}
+.call{
+    position: absolute;
+    left: -600px;
+    bottom: -190px;
+    background-color:  darkslategray;
+    color: white;
+    border: 0px;
+    width: 70px;
+    height: 20px;
+    border-radius: 5px;
+}
+.email{
+    position: absolute;
+    left: -525px;
+    bottom: -190px;
+    background-color:  darkslategray;
+    color: white;
+    border: 0px;
+    width: 78px;
+    height: 20px;
+    border-radius: 5px;
+}
+.numb{
+    width: 410px;
+    height: 200px;
+    background-color: beige;
+    margin-top: 240px;
+    margin-left: -60px;
+}
+.number{
+    position: relative;
+    font-size: 35px ;
+    font-weight: bold ;
+    top: 28px;
+    left: 40px;
+}
+.plus{
+    width: 30px;
+    position: relative;
+    top: 32px;
+    left: 30px;
+}
+.cli{
+    margin-left: 45px;
+    margin-top: 3px;
+    font-size: 16px;
+}
+.number1{
+    position: relative;
+    font-size: 35px ;
+    font-weight: bold;
+    left: 160px;
+    top: -45px;
+    
+}
+.plus1{
+    width: 30px;
+    position: relative;
+    top: -42px;
+    left: 152px;
+}
+.tos{
+    position: relative;
+    bottom: 28px;
+    left: 40px;
+    font-size: 16px;
+}
+.number2{
+    position: relative;
+    font-size: 35px;
+    font-weight: bold;
+    top: 16px;
+    left: -170px;
+}
+.plus2{
+    width: 30px;
+    position: relative;
+    top: 20px;
+    left: -180px;
+
+}
+.eo{
+    position: relative;
+    bottom: -36px;
+    left: -260px;
+    font-size: 16px;
+}
+.number3{
+    position: relative;
+    font-size: 35px;
+    font-weight: bold;
+    top: -24px;
+    left: 180px;
+}
+.plus3{
+    width: 30px;
+    position: relative;
+    top: -22px;
+    left: 170px;
+}
+.rage{
+    position: relative;
+    bottom: 4px;
+    left: 80px;
+    font-size: 16px; 
+}
+.din1{
+    display: none;
+}
+.din3{
+    display: none;
+}
+.din5{
+    display: none;
+}
+.din{
+    display: none;
+}
+.milt{
+    display: none;
+}
+.din2{
+    display: none;
+}
+.del{
+    display: none;
+}
+.din4{
+    display: none;
+}
+.ola{
+    display: none;
+}
+.yagi{
+    display: none;
+}
+.swe{
+    display: none;
+}
+.vot, .omo, .vot1, .omo1{
+    display: none;
+}
+.vot2, .omo2, .doja, .mes{
+    display: none;
+}
+.doja1, .mes1, .omo2, .mes2{
+display: none;
+}
+.ink{
+    width: 350px;
+    height: 400px;
+    /* background-color: cornflowerblue; */
+    margin-top: 40px;
+    margin-left: -30px;
+}
+.jacob{
+   width:350px ;
+}
+.fire{
+    width: 350px;
+    height: 300px;
+    background-color: rgb(214, 212, 212);
+    position: relative;
+    bottom: -150px;
+    left: -32px;
+}
+.go{
+    position: relative;
+    top: 10px;
+    left: 28px;
+    font-size: 10px;
+}
+.ka{
+    display: none;
+}
+.fb{
+    width: 32px;
+    margin-bottom: -235px;
+}
+.ig{
+    width: 15px;
+    position: absolute;
+    bottom: -225px;
+}
+.li{
+    width: 14px;
+    position: absolute;
+    bottom: -225px;
+    left: 53px;
+}
+.yt{
+    width: 22px;
+    position: absolute;
+    bottom: -229px;
+    left: 74px;
+}
+.iva{
+    display: none;
+    position: relative;
+    /* display: flex; */
+    /* justify-content: space-evenly ; */
+    bottom: 203px;
+    left: 450px;
+}
+}
+
+ .many{
+    width: 100%;
+    height: 700px;
+    background-image: url(REVOLT.jpeg);
+    background-size: 100%;
+    animation-name: move;
+    animation-duration: 30s;
+    animation-iteration-count: infinite;
+    position: relative;
+    /* overflow: hidden; */
+}
+@keyframes move {
+    10%{
+        background-image: url(Dopamine_JPG.jpeg);
+    }
+    20%{
+        background-image: url(ANARCHY_IN_VERSAILLES.jpeg);
+    }
+    30%{
+        background-image: url(COME-UP.jpg);
+    }
+    40%{
+        background-image: url(modela.jpg);
+    }
+    50%{
+        background-image: url(modela4.jpg);
+    }
+    60%{
+        background-image: url(modela3.jpeg);
+    }
+    70%{
+        background-image: url(modela5.jpg)
+    }
+    80%{
+        background-image: url(modela6.jpg);
+    }
+}
